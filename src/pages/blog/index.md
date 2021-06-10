@@ -1,6 +1,6 @@
 ---
 title: Blogd f
-subtitle: 'News, tips and highlights'
+subtitle: 'News, tips and highlightsf'
 hide_title: false
 col_number: three
 seo:
